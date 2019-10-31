@@ -32,8 +32,11 @@ etc.
 
 ## How To Do?
 
-Things that might work.
+We don't actually need to do syntax analysis, so nimsuggest doesn't make any
+sense. I think I only need the following:
+  - i provide a module name, you provide the contents
+  - i provide a symbol name, you tell me what it means
+  - ???
 
-- fzf, sk, et al
-- nimsuggest
-- mddoc, mdcat
+Probably rg, sk, or fzf runs against a database we build AOT. We may even be
+able to do this faster than they can.
