@@ -36,4 +36,4 @@ Things that might work.
 
 - fzf, sk, et al
 - nimsuggest
-- mddoc
+- mddoc, mdcat
